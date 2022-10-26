@@ -1,0 +1,8 @@
+.login{
+border: 2px solid azure;
+box-shadow: 0 2px 4px rgp(0 0 0 / 10%),0 8px 16px rgp(0 0 0 / 10%);
+border-radius: 0px;
+padding: 200px;
+align-items: center;
+text-align: center;
+}
